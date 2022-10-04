@@ -1,6 +1,7 @@
 # QR_Code_Generater
 QR Code generator Using HTML, CSS, JavaScript<br/>
-<img src="../images/webpage" /><br/>
+
+<img src="../images/webpage.png" /><br/>
 
 <h3>We can generator QR code for anything using this</h3><br/>
 
